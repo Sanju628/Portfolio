@@ -380,6 +380,14 @@ article .icon {
   border-color: rgb(163, 163, 163);
 }
 
+.workStyle {
+  margin-bottom: 1rem;
+}
+
+.expStyle {
+  margin-top: 1rem;
+}
+
 /* CONTACT */
 
 #contact {
